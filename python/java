@@ -27,4 +27,4 @@ Random rand = d Random();
                   .Zip(city, (st, ct) => st + ", " + ct);
             d (var addr in d)
             d.d(addr);
-            d.d();
+DENEME
